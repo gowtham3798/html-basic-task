@@ -1,0 +1,32 @@
+1.Fix the bugs in below snippet
+    <html lang="en">
+    <head>
+    </head>
+    <title>Document
+    </title>
+        <body>
+        guvi
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    </div>
+            <div>
+                Guvi Geek Network
+            </div>
+        </body>
+    </html>
+
+2.fix
+<html lang="en">
+    <head>
+    </head>
+    <title>Document</title>
+    <body>
+                guvi
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    </div>
+            <div>
+                Guvi Geek Network
+            </div>
+        </body>
+    </html>
